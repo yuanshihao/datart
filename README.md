@@ -1,7 +1,7 @@
 ![](https://running-elephant.github.io/datart-docs/images/about/logo_with_text.jpg)
 > **新一代数据可视化开放平台，支持报表、仪表板、大屏、分析和可视化数据应用的敏捷构建。**
 
-## What is datart?
+## What is Datart?
 datart 是新一代数据可视化开放平台，支持各类企业数据可视化场景需求，如创建和使用报表、仪表板和大屏，进行可视化数据分析，构建可视化数据应用等。由原 davinci 主创团队出品，datart 更加开放、可塑和智能，并在数据与艺术之间寻求最佳平衡。
 
 ### 设计理念 Design Philosophy
